@@ -5,8 +5,7 @@ About the project: we focus on predicting the review of customer is spam or not,
 Learn more about the dataset: https://www.kaggle.com/datasets/naveedhn/amazon-product-review-spam-and-non-spam, 
 
 We only use subdata of this which is Toys_and_Games category via Toys_and_Games.json
-- Open and read the file `ML-Project-Report(Gemstone).pdf` which is a brief report of our work 
-- Open and read the file `GemstoneProject.ipynb` in src path for detail of our work
-- Open and read the file `Experiment.ipynb` in src path for testing the hyper-parameter in the model or preprocessing part, trying the ideal we have with datasets, and see if you can do better, the coding for Optuna is at the bottom. You can also try to make your parameter or take the parameter we have tuned to put in there for the submission
-
-Run file `.ipynb` by Jupyter notebook 
+- Open and read the file `Project2.pptx` which is a presentation of our work, kind of brief report
+- Open and read the file `.pdf` which is a report of our work 
+- All our ML model in `ML` folder, same with `DL` and `LLM`
+- For inference, run file `Infer/spam-detection-infer.ipynb` and change sentence to the review you want to check
